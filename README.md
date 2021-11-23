@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-กูหล่อ
+- Skill HTML CSS JAVASCRIPT PYTHON 💞️
+- วิลัยการอาชีพสาขา Business Computer 📫
