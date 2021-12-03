@@ -5,4 +5,5 @@
 - 📫 How to reach me ...
 
 - Skill HTML CSS JAVASCRIPT PYTHON 💞️
-- วิลัยการอาชีพสาขา Business Computer 📫
+- Mukdahan School
+- Go to วิลัยการอาชีพสาขา Business Computer 📫
