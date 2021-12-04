@@ -1,3 +1,4 @@
-- Skill HTML CSS JAVASCRIPT PYTHON 💞️
+- Skill HTML CSS JAVASCRIPT PYTHON C# C++💞️
+- OS Kali linux & Windows10
 - Mukdahan School
 - Go to วิลัยการอาชีพสาขา Business Computer 📫
