@@ -2,3 +2,4 @@
 - OS Kali linux & Windows10
 - Mukdahan School
 - วิลัยการอาชีพสาขา Business Computer 📫
+- CEO Badservice Co., Ltd
