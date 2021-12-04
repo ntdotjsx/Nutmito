@@ -8,7 +8,7 @@
 > 
 > **Students of [borntodev coding academy](https://academy.borntodev.com/).** 🍊
 > 
-> **ศึกษาการเจาะระบบ - [Permis Security](https://www.facebook.com/P3rmis/).** 🟣
+> **ศึกษาการเจาะระบบ - [Permis Security](https://dropctf.live/home).** 🟣
 > 
 > **Junior high school โรงเรียนมุกดาหาร - [Mukdahan School](https://muk.ac.th/).** 🐢
  
