@@ -3,14 +3,6 @@
 
 > 
 > **Badservice** 🐱‍💻
-
-> **การศึกษา**
-> 
-> **Students of [borntodev coding academy](https://academy.borntodev.com/).** 🍊
-> 
-> **ศึกษาการเจาะระบบ - [Permis Security](https://dropctf.live/home).** 🟣
-> 
-> **Junior high school โรงเรียนมุกดาหาร - [Mukdahan School](https://muk.ac.th/).** 🐢
 > 
 > **นายธนพล พ่ออามาตย์ - [ไม่เอาสิ ครับ](https://www.facebook.com/thanapon.bonus).** 💻
 
