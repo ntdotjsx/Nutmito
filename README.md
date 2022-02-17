@@ -1,4 +1,4 @@
-> **Skill HTML CSS JAVASCRIPT PYTHON C# C++** 💞️
+> **Skill HTML CSS JAVASCRIPT PYTHON C# C++ React JSX** 💞️
 > 
 > **Badservice** 🐱‍💻
 > 
