@@ -25,6 +25,9 @@
 <a href="https://github.com/Nutmito"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Nutmito&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a target="_blank" href="https://fb.com/thanapon.bonus"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a target="_blank" href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://fb.com/thanapon.bonus"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+
+<a href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Discord" alt="Discord" width="30px" src="assets/discord.png" /></a>
+
 
