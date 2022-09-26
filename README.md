@@ -31,5 +31,5 @@
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a target="_blank" href="https://fb.com/thanapon.bonus"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a target="_blank" href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a target="_blank" href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
