@@ -28,6 +28,6 @@
 <a href="https://fb.com/thanapon.bonus"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
-<a href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Discord" alt="Discord" width="50px" src="assets/discord.png" /></a>
+<a href="https://www.instagram.com/nut.thxnapon/"><img align="left" title="Discord" alt="Discord" width="38px" src="assets/discord.png" /></a>
 
 
