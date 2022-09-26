@@ -16,12 +16,7 @@
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
-<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
+<li> <a href="https://github.com/Nutmito/Student">Student - PHP DATA OBJECT CRUD.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Nutmito"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Nutmito&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
