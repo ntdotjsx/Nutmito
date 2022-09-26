@@ -14,7 +14,7 @@
 <li> 😐 <i>Studying at Kindergarten</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
+<li> 🐘 <i>Trying to learn PHP & SQLI</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
