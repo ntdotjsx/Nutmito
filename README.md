@@ -7,7 +7,7 @@
 </a></p>
 
 <h2><i>สวัสดีครับผม นายธนพล พ่ออามาตย์ 👋</i></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<b><i>💻 I'm a Student & A part time Programmer & Graphic Design</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 😐 <i>Studying at Nawamintharachini Mukdahan Industrial</i></li>
