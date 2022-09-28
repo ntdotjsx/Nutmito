@@ -6,7 +6,7 @@
 <a href="https://github.com/Nutmito"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutmito&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><i>สวัสดีครับผม นายธนพล พ่ออามาตย์ <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px></i></h2>
+<h2><i>สวัสดีครับผม นายธนพล พ่ออามาตย์ 👋</i></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
