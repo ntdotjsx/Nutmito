@@ -4,7 +4,7 @@
 <a href="https://github.com/Nutmito"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutmito&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h1>Hello World!</h1>h1>
+<h1>Hello World!</h1>
 
 
 
