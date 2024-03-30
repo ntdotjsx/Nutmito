@@ -158,7 +158,7 @@
 </details>
 
 <details>
-  <summary>📱 WebApp</summary>
+  <summary>📱 Webapp</summary>
   
 <!--
 | Name                 | A short summary                              | Stars   | Framework |
