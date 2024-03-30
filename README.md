@@ -50,7 +50,7 @@
 - 📖 **Web Development**\
 📆 2013 - 2016\
 📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-
+<!--
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
@@ -114,7 +114,7 @@
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
-
+ -->
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
