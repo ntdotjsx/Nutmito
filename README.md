@@ -19,6 +19,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nutmito&show_icons=true&count_private=true&hide_border=true&theme=dark" width="350"></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
 </p>
 
 <p align='center'>
@@ -35,8 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <hr/>
