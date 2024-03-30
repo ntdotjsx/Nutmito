@@ -162,7 +162,7 @@
   
 | Name                 | A short summary                              | Stars   | Framework |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [congratulations-mec](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | a website to congratulate seniors in college.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![React](	https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) |
+| [congratulations-mec](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | a website to congratulate seniors in college.  | ![GitHub Repo stars](https://img.shields.io/github/stars/Nutmito/flutter-todo-list-chat-gpt) | ![React](	https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) |
 <!--
 | [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
 
