@@ -36,7 +36,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutmito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&count_private=true&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutmito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages&count_private=true&theme=dark" alt="Top Languages" />
 </div>
 
 <hr/>
