@@ -146,24 +146,24 @@
 <details>
   <summary>📦 Packages </summary>
   
-
+<!--
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [pix-dynamic-payload-generator.net](https://github.com/alexandresanlim/pix-dynamic-payload-generator.net) | Create dynamic payload for fast Brazil payment.  | [![Nuget](https://img.shields.io/nuget/v/pix-dynamic-payload-generator.net)](https://www.nuget.org/packages/pix-dynamic-payload-generator.net) | [![Nuget](https://img.shields.io/nuget/dt/pix-dynamic-payload-generator.net)](https://www.nuget.org/packages/pix-dynamic-payload-generator.net) |
 | [pix-payload-generator.net](https://github.com/alexandresanlim/pix-payload-generator.net) | Create static payload for fast Brazil payment.  | [![Nuget](https://img.shields.io/nuget/v/pix-payload-generator.net)](https://www.nuget.org/packages/pix-payload-generator.net) | [![Nuget](https://img.shields.io/nuget/dt/pix-payload-generator.net)](https://www.nuget.org/packages/pix-payload-generator.net) |
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
-
+-->
 </details>
 
 <details>
   <summary>📱 Mobile</summary>
   
-
+<!--
 | Name                 | A short summary                              | Stars   | Framework |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
-
+-->
 
 </details>
