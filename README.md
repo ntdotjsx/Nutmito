@@ -18,7 +18,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nutmito&show_icons=true&count_private=true&hide_border=true&theme=dark" width="350"></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nutmito&show_icons=true&count_private=true&hide_border=true&theme=dark" width="350" height="70">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&layout=compact&hide_border=true&theme=dark" width="350" alt="Top Languages" />
 </p>
 
