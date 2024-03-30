@@ -47,9 +47,9 @@
 
 ## Education
 
-- 📖 **Web Development**\
+- 📖 **Information Technology**\
 📆 2022 - 2025\
-📍 **Navamintrachinee Mukdahan Industrial and Community Education College** - Information Technology, Thailand
+📍 **Navamintrachinee Mukdahan Industrial and Community Education College** - Mukdahan, Thailand
 <!--
 ## Experience
 
