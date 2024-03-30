@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=NT+DEVELOPER+ALWAYS+BE+%5BLEARNING%5D+!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Thanapon+Phorarmart+!;NT+DEVELOPER+ALWAYS+BE+%5BLEARNING%5D+!" alt="Typing SVG" /></a>
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
