@@ -19,7 +19,7 @@
 
 <p align='center'>
       <img src="https://github-readme-stats.vercel.app/api?username=Nutmito&show_icons=true&count_private=true&hide_border=true&theme=dark" width="350">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&layout=compact&hide_border=true&theme=dark" height="147" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutmito&layout=compact&hide_border=true&theme=dark" height="147" alt="Top Languages" />
 </p>
 
 <p align='center'>
