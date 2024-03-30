@@ -12,7 +12,7 @@
   <a href="https://github.com/sponsors/Nutmito">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://nutmito.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>&nbsp;&nbsp;
 </p>
