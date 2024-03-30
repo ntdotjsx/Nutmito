@@ -49,7 +49,7 @@
 
 - 📖 **Web Development**\
 📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+📍 **Navamintrachinee Mukdahan Industrial and Community Education College** - Information Technology, Thailand
 <!--
 ## Experience
 
