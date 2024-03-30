@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A Software developer from Thailand.
+  A software developer from Thailand.
 </p>
 
 <p align='center'>
