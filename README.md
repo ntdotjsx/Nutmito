@@ -2,6 +2,22 @@
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Thanapon+Phorarmart+!;NT+DEVELOPER+ALWAYS+BE+%5BLEARNING%5D+!" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">A passionate software developer from Thailand 🇹🇭</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+</div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
